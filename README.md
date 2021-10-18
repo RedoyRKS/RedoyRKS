@@ -1,5 +1,14 @@
+<div align="center">
+<img src="https://3v14en34n4qsadzlwpatrq14-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/woodland_wanderer_dribbble.gif" width="500px" hight"1600px">
+</div>
+
 <h1 align="center">Hi 👋, I'm Redoy Kumar Shaha</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=redoyrks&label=Profile%20views&color=0e75b6&style=flat" alt="redoyrks" /> </p>
+
+<h4 align="center">__Visitor's count__</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{redoyrks}/count.svg" alt="redoyrks :: Visitor's Count" /></p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2 align="center">
 
@@ -9,7 +18,12 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,7 +63,9 @@ My Current Workstation Specifications </h2>
 <a href="https://instagram.com/redoy__saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="redoy__saha" height="30" width="40" /></a>
 </p>
 
-<br> <br>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<br> 
 🌟 STAR THE REPOS IF YOU LIKE 🌟
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redoyrks&" alt="redoyrks" /></p>
@@ -58,7 +74,7 @@ My Current Workstation Specifications </h2>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<br> <br>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=redoyrks&show_icons=true&locale=en&layout=compact" alt="redoyrks" /></p>
 
 
