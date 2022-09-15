@@ -42,7 +42,7 @@ My Current Workstation Specifications </h2>
 
 <div align="center">
   
-![Laptop](https://img.shields.io/badge/Windows-LENOVO-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+![Laptop](https://img.shields.io/badge/Windows-LENOVO ThinkPad-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 <br>
 
 ![CPU](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
